@@ -1,4 +1,4 @@
- Network Traffic Analysis and Protocol Identification using Wireshark
+"NETWORK TRAFFIC ANALYSIS AND PROTOCOL IDENTIFICATION USING WIRESHARK"
 
 This project captures live Wi-Fi traffic with *Wireshark* and analyses it to identify protocols (TCP, DNS, ICMP, ARP, UDP) and to study traffic behaviour using Wireshark's statistics tools.
 Tools used:Wireshark, Windows, Wi-Fi interface
